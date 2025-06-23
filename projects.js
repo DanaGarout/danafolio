@@ -32,6 +32,14 @@ const projectData = [
     description: "My very first experience in Programming."
   },
   {
+    name: "Signin/Login Verify",
+    type: "mobile",
+    image: "assets/img/portfolio/login.png",
+    github: "https://github.com/DanaGarout/loginVerify",
+    video: "https://www.youtube.com/shorts/-IR4wj0xINo",
+    description: "Signup/Login with verification on email through link."
+  },
+  {
     name: "UltraTask",
     type: "university",
     image: "assets/img/portfolio/ultratask-1.png",
