@@ -40,6 +40,14 @@ const projectData = [
     description: "Signup/Login with verification on email through link."
   },
   {
+    name: "Simple Time Tracking App",
+    type: "mobile",
+    image: "assets/img/portfolio/time_tracker.png",
+    github: "https://github.com/DanaGarout/TimeTrackerApp",
+    video: "https://youtube.com/shorts/e0CBfihUwIE?feature=share",
+    description: "A cross-platform Flutter app for tracking work hours across projects and tasks with offline data storage and a clean, tab-based UI."
+  },
+  {
     name: "UltraTask",
     type: "university",
     image: "assets/img/portfolio/ultratask-1.png",
