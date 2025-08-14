@@ -42,7 +42,7 @@ const projectData = [
   {
     name: "Simple Time Tracking App",
     type: "mobile",
-    image: "assets/img/portfolio/time_tracker.png",
+    image: "assets/img/portfolio/time_track.png",
     github: "https://github.com/DanaGarout/TimeTrackerApp",
     video: "https://youtube.com/shorts/e0CBfihUwIE?feature=share",
     description: "A cross-platform Flutter app for tracking work hours across projects and tasks with offline data storage and a clean, tab-based UI."
